@@ -1,7 +1,7 @@
 코딩에 대해 1도 모르는 백수가 음악 듣다가 가사 없는 게 불편해서 만든 프로그램 입니다. 일단 올려보겠는데 뭘 어떻게 해야 하는지도 몰라요.
 음악 플레이어도 만들었는데 그건 이것보단 UI가 좀 낫습니다. 암튼 한명이라도 써주시면 감사하겠네요. 쓸데없는 코드 굳이 다운 받지 마시고 그냥 마구 긁어가세요.
 
-I made this program because I was uncomfortable without lyrics while downloading and listening to music by an unemployed person who doesn't know anything about coding. 
+I made this program because I was uncomfortable without lyrics while listening to music by an unemployed person who doesn't know anything about coding. 
 I'll upload it first, but I don't even know what to do.
 Still, I made a music player, and the UI is a little better than this. I don't need anyone, but I'd appreciate it if you could use at least one person. 
 Don't bother downloading useless Python files and just copy them.
